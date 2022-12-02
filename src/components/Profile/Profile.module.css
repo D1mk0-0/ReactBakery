@@ -1,0 +1,43 @@
+.profile {
+    grid-area: c;
+    background-color: antiquewhite;
+    border-radius: 15px;
+  }
+  
+  .profile div {
+    margin: 10px;
+  }
+  
+  .image img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+
+  .contact__area {
+    display: flex;
+    justify-content: center;
+    position: relative;
+  }
+
+  .contact {
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 100%;
+    align-items: center;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.199);
+  }
+
+  .contact__photo img {
+    width: 180px;
+    height: 180px;
+    border-radius: 7px;
+  }
+
+  .contact__name {
+    font-weight: 700;
+    font-size: 22px;
+  }
+
+ 

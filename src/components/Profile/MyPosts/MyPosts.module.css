@@ -1,0 +1,7 @@
+.posts__area {
+    position: relative;
+    margin: 10px;
+    padding: 10px;
+    background: linear-gradient(45deg, rgb(247, 177, 92), bisque);
+    border-radius: 10px;
+}
